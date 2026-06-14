@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Lyria Alarm Clock",
+  "description": "An AI-powered alarm clock that composes a unique song every morning based on your agenda, weather, and location.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
